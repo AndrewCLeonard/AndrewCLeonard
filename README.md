@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @AndrewCLeonard
 - 👀 I’m interested in ... creating web apps to solve problems
 - 🌱 I’m currently learning ... Express.js to create educational games for music students
-- 💞️ I’m looking to collaborate on ...
+- 💞️ Right now, I’m open to collaborate on ... pretty much anything!
 - 📫 How to reach me ... AndrewCLeonard@fastmail.com or twitter: @LeonardCodes
 
 <!---
